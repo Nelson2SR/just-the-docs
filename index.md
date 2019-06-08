@@ -11,6 +11,6 @@ customJs:
 
 There are some topic that you may interest in.
 
-1. [Docker](docs/docker/)
-2. [KATALON](docs/katalon)
+1. [Docker](docs/docker)
+2. [Automate Testing](docs/automate-testing)
 3. [Contentful](docs/contentful)

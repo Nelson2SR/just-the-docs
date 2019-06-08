@@ -5,6 +5,7 @@ published: true
 nav_order: 3
 has_child: true
 comments: true
+permalink: /docs/automate-testing
 ---
 # Automate Testing
 
