@@ -3,6 +3,7 @@ layout: default
 title:  Container
 published: true
 parent: Docker
+comments: true
 ---
 
 * list all image

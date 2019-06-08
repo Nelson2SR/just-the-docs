@@ -4,6 +4,7 @@ title: Automate Testing
 published: true
 nav_order: 3
 has_child: true
+comments: true
 ---
 # Automate Testing
 

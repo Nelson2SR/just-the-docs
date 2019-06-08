@@ -3,6 +3,7 @@ layout: default
 title:  Volumes
 published: true
 parent: Docker
+comments: true
 ---
 
 What is data volumes?

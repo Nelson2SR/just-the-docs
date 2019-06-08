@@ -5,6 +5,7 @@ nav_order: 2
 has_children: true
 permalink: /docs/contentful
 published: true
+comments: true
 ---
 
 # Contentful

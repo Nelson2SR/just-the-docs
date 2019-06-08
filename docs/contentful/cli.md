@@ -4,6 +4,7 @@ title: CLI
 published: true
 nav_order: 1
 parent: Contentful
+comments: true
 ---
 
 ## Contentful CLI
