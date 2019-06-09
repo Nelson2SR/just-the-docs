@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: LostSheep's Blog
 description: A blog for documentation in Tech
-baseurl: "/lostsheep/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nelson2sr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -27,7 +27,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "//github.com/Nelson2SR/just-the-docs"
+    - "//github.com/Nelson2SR/nelson2sr.github.io"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
