@@ -2,7 +2,7 @@
 layout: default
 title: How to Merge Cell
 published: true
-nav_order: 1
+nav_order: 2
 parent: Contentful
 comments: true
 ---
